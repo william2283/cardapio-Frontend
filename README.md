@@ -40,5 +40,17 @@ Para compilar a aplicação para produção, execute o seguinte comando:
 ```bash
 npm run build
 ```
-Isso irá gerar uma versão otimizada da aplicação na pasta `dist`.
+Isso irá gerar uma versão otimizada da aplicação na pasta `dist`
+
+🚀 Tecnologias Utilizadas
+
+⚛️ React — Biblioteca para construção de interfaces
+
+🟦 TypeScript — Superset do JavaScript com tipagem estática
+
+⚡ Vite — Ferramenta de build rápida e moderna
+
+🔄 React Query — Gerenciamento de dados assíncronos
+
+💅 CSS — Estilização da interface
 
